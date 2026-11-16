@@ -15,7 +15,7 @@ Built for *Operating Systems, IA Assignment Activity 2: AI-Assisted Dashboard De
 
 Project guide: Neha Hajare
 
-> **Live demo:** `https://<your-app>.streamlit.app` *(add your link after deploying)*
+> **Live demo:** `https://os-ia-assignment-activity-ele3ggksshnnwct4gn3kyb.streamlit.app/` *(add your link after deploying)*
 
 ---
 
